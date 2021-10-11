@@ -1,8 +1,3 @@
-/**
- * @description ajax 工具封装
- * @author 双越老师
- */
-
 import axios from 'axios'
 
 // 跨域带 cookie

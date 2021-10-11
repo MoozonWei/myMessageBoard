@@ -1,8 +1,3 @@
-/**
- * @description 留言 services
- * @author 双越老师
- */
-
 import { ajaxPost, ajaxGet } from '../utils/ajax'
 import {
     CREATE_COMMENT_URL,

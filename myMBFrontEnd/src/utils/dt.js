@@ -1,8 +1,3 @@
-/**
- * @description 日期 工具函数
- * @author 双越老师
- */
-
 import { format } from 'date-fns'
 
 /**

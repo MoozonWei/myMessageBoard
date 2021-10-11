@@ -1,8 +1,3 @@
-/**
- * @description 服务端接口列表
- * @author 双越老师
- */
-
 const HOST = 'http://localhost:3000'
 
 const REGISTER_URL = `${HOST}/users/register`

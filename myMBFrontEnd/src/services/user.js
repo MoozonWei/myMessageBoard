@@ -1,8 +1,3 @@
-/**
- * @description 用户 services
- * @author 双越老师
- */
-
 import { ajaxGet, ajaxPost } from '../utils/ajax'
 import { REGISTER_URL, LOGIN_URL, GET_USER_INFO_URL } from '../conf/apis'
 
